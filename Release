@@ -1,0 +1,9 @@
+Date: Thu, 02 Jun 2026 01:45:00 UTC
+Origin: GetDCCert
+Label: GetDCCert Rootless
+Suite: stable
+Version: 1.0
+Codename: getdccert-rootless
+Architectures: iphoneos-arm64
+Components: main
+Description: GetDCCert DeviceCheck certificate export tool (rootless)
