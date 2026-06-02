@@ -4,10 +4,10 @@ Architecture: iphoneos-arm64
 Maintainer: symofeng
 Depends: mobilesubstrate
 Filename: debs/com.x.GetDCCert_5.3_iphoneos-arm64.deb
-Size: 99640
-MD5sum: 9bd1c9eb41f63febdbfca0746864c32d
-SHA1: 3f55dc076a4be6c4b0c5e41702612519fda65367
-SHA256: 30a24b3353e609aac62d2f47cf829bb3ef63ba62e354b95edc16168eed71bca4
+Size: 99564
+MD5sum: 1ee2da71f965d5bb537683ffac76c10f
+SHA1: 7fe82190f15708248409aeb6fc23655fdd60260e
+SHA256: 3d6fa1829da66107e41179c80bc153292bec5f3e5337231bfce58569701158e6
 Section: System
 Priority: optional
 Description: DeviceCheck certificate export tool
