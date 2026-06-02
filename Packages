@@ -1,15 +1,19 @@
 Package: com.x.GetDCCert
-Version: 5.2
+Version: 5.3
 Architecture: iphoneos-arm64
 Maintainer: symofeng
 Depends: firmware (>= 5.0), mobilesubstrate | cydia
-Filename: debs/com.x.GetDCCert_5.2_iphoneos-arm64.deb
-Size: 113220
-MD5sum: 6ea0b2cca85811a76763073432fb0e40
-SHA1: c0d0f92d5ff17be41a7941338352af03fea52c81
-SHA256: 3dedd5380443f4182658ca6de0e12aa6784b5ae0ab2c28066c5f9b5d44d643d0
+Filename: debs/com.x.GetDCCert_5.3_iphoneos-arm64.deb
+Size: 113232
+MD5sum: f397b9381b5edeb1075a6bbbe6d7f080
+SHA1: 7ef649ed7b8055c715b89d425f8af9af1334df6e
+SHA256: 704c239589ec7ff7f31ec361c6dd3a73e280c5b8e1e934cf200d2d8cc6fc67c0
 Section: System
 Priority: optional
 Description: DeviceCheck certificate export tool
 Author: i
 Name: GetDCCert
+
+dpkg-scanpackages: warning: Packages in archive but missing from override file:
+dpkg-scanpackages: warning:   com.x.GetDCCert
+dpkg-scanpackages: info: Wrote 1 entries to output Packages file.
