@@ -30,3 +30,19 @@ Description: DeviceCheck certificate export tool
 Author: i
 Name: GetDCCert
 
+Package: com.x.GetDCCert
+Version: 5.5
+Architecture: iphoneos-arm64
+Maintainer: symofeng
+Depends: mobilesubstrate
+Filename: debs/com.x.GetDCCert_5.5_iphoneos-arm64.deb
+Size: 244272
+MD5sum: 9750497633b2a07d70f77841fd5ae79e
+SHA1: 784a4a95f17694bdc554c7193ae9171dd5120d9a
+SHA256: 94d243ac6172b2bc060df47b75fa89cd6395b8ed0af948db6acb8bef777d7a3e
+Section: System
+Priority: optional
+Description: DeviceCheck certificate export tool
+Author: i
+Name: GetDCCert
+
